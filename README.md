@@ -2,13 +2,6 @@
 
 > 一个沉浸式的 Android 氛围时钟应用 —— 随时间流转，天空变色，粒子飞舞，诗意浮现。
 
-<p align="center">
-  <img src="docs/dawn.png" width="45%" alt="黎明" />
-  &nbsp;&nbsp;
-  <img src="docs/night.png" width="45%" alt="深夜" />
-</p>
-
----
 
 ## ✨ 体验
 
