@@ -95,7 +95,7 @@ TimeAtmosphere/
 
 ```bash
 # 1. 克隆项目
-git clone <your-repo-url> && cd TimeAtmosphere
+git clone https://github.com/NIXNAUG/TimeAtmosphere.git
 
 # 2. 用 Android Studio 打开项目根目录
 
