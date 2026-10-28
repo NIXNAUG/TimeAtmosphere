@@ -127,7 +127,8 @@ git clone https://github.com/NIXNAUG/TimeAtmosphere.git
 
 ## 📄 许可
 
-MIT License
+MIT License 
+谢谢你能看到这里
 
 ---
 
